@@ -5,6 +5,15 @@ This repository contains the complete documentation, research process, and deliv
 
 As the **Team Leader**, I coordinated both phases of the project — from team formation and planning to conducting research, interviews, analysis, and final presentation delivery.
 
+## Our Team Structure
+
+| Team Member | Role |
+|---|---|
+| Sharmila L | Team Lead / Coordinator |
+| Arun Barwa | Data & Analysis Lead |
+| Prashanth S | Interview & Stakeholder Lead |
+| Priyaghshu Bhattacharyya | Research Lead |
+| Vidhyasaagar S | Presentation & Media Lead |
 ---
 
 # Project Overview
