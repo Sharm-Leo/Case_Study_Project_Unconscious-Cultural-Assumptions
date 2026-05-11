@@ -33,10 +33,12 @@ The first phase focused on establishing the foundation of the project.
 - Defining research objectives and scope
 - Planning timelines and milestones
 - Preparing Team profile
+- Self Assessment Report
 
 ### Deliverables
 - Team Contract (Team_43_SPG_TC_Jan_2026.pdf)
 - GP1 Project Report (Team_43_SPG_GP1_Jan_2026.pdf)
+- Self Assessment Report - (Not included here as its specific of each team members)
 
 ---
 
